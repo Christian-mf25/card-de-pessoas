@@ -1,0 +1,23 @@
+div, p, body, h3{
+	margin: 0;
+	border: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.devs{
+	background-color: #0fc9da;
+	border-radius: 10px;
+	border:#4169e1 2px solid;
+
+	margin: 20px auto;
+	padding: 10px;
+
+	width: 30%;
+
+	cursor: pointer;
+}
+
+.devs:hover{
+	filter:brightness(0.9);
+}
